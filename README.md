@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ange0x</h1>
-<h3 align="center">A passionate fullstack developer from Bénin 🇧🇯</h3>
+<h3 align="center">A passionate fullstack developer from Benin Republic 🇧🇯</h3>
 
 ## 🛠️ Tech stack
 
