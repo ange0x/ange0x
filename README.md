@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ange0x</h1>
+<h1 align="center">Hi 👋, I'm Ange</h1>
 <h3 align="center">A passionate fullstack developer from Benin Republic 🇧🇯</h3>
 
 ## 🛠️ Tech stack
