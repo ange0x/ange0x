@@ -1,16 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ange</h1>
+<h1 align="center">Hi 👋, I'm ange0x</h1>
 <h3 align="center">A passionate fullstack developer from Bénin 🇧🇯</h3>
 
-- 🌱 I’m currently learning **React, Next.js, FastAPI and TailwindCSS**
+## 🛠️ Tech stack
 
-- 💬 Ask me about **React, Next.js, FastAPI and TailwindCSS**
+**Languages**
 
-- 📫 How to reach me **angeabobo12@gmail.com**
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp" alt="Python, JavaScript, C, C++" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />&nbsp;<img src="https://img.shields.io/badge/NoSQL-47A248?style=plastic&logo=mongodb&logoColor=white" height="48" alt="NoSQL" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="HTML, CSS, Tailwind, React, Next.js" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs" alt="FastAPI, Node.js" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB" />
+
+**Work environment**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,linux,github" alt="VS Code, Git, Linux, GitHub" />
+
+## 📅 Hobbies
+
+- 🎮 Play video games
+- 🎵 Listen to music
+- 🎌 Watch anime and read manga
+- 📚 Always learning something new — tech, tools or random curiosities
+- 🤝 Participate in hackathons
+
+## 💻 Currently learning
+
+- ⚛️ React / Next.js — building modern UIs
+- 🐍 FastAPI (Python) — building fast REST APIs
+- 🎨 TailwindCSS — crafting clean designs
+
+## 📫 Contact me
+
+**angeabobo12@gmail.com**
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ange0x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ange0x&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ange0x&theme=tokyonight&hide_border=true" />
+</p>
 
+## 🎵 Spotify status
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31camhiwvweh5yyel7s556jv6cyu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" width="460" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ange0x&label=Profile%20views&color=00d9ff&style=flat" alt="ange0x" />
+</p>
